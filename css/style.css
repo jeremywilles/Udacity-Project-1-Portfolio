@@ -1,0 +1,32 @@
+body{
+	font-family: 'Roboto', serif;
+	font-weight: 400;
+	color: #747704;
+}
+
+.topleft{
+	padding-bottom: 0px;
+}
+
+.thinline{
+	height: 5px;
+}
+
+#topline{
+	font-family: 'Roboto';
+	weight: 100;
+	text-align: right;
+}
+
+.midline{
+	color: #BCBBBB;
+}
+
+.featured{
+	text-align: center;
+}
+
+.thin{
+	font-weight: 100;
+
+}
