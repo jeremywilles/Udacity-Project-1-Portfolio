@@ -1,21 +1,39 @@
 body{
-	font-family: 'Roboto', serif;
-	font-weight: 400;
+	font-family: 'Lato',sans-serif;
+	font-weight: 300;
 	color: #747704;
+	
+}
+
+hr{
+	border: none;
+	height: 3px;
+	background-color: #BCBBBB
+}
+
+.top{
+	float:left;
 }
 
 .topleft{
-	padding-bottom: 0px;
+	margin-top: 10px;
 }
+
 
 .thinline{
-	height: 5px;
+	margin-top: 3px;
+	color: #BCBBBB;
 }
 
-#topline{
-	font-family: 'Roboto';
-	weight: 100;
+.topline{
+	
 	text-align: right;
+	text-transform: uppercase;
+}
+
+#header{
+	font-weight: 100;
+	font-size: 48px;
 }
 
 .midline{
@@ -24,9 +42,15 @@ body{
 
 .featured{
 	text-align: center;
+	color: #747704;
 }
 
 .thin{
 	font-weight: 100;
-
 }
+
+.center{
+	margin: auto;
+}
+
+
