@@ -2,7 +2,6 @@ body {
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	color: #747704;
-	
 }
 
 hr {
@@ -19,14 +18,12 @@ hr {
 	margin-top: 10px;
 }
 
-
 .thinline {
 	margin-top: 3px;
 	color: #bcbbbb;
 }
 
 .topline {
-	
 	text-align: right;
 	text-transform: uppercase;
 }
@@ -51,11 +48,8 @@ hr {
 
 .center {
 	margin: auto;
-
 }
 
 .link {
 	color: #747704;
 }
-
-
