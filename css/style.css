@@ -1,69 +1,61 @@
-body{
-	font-family: 'Lato',sans-serif;
+body {
+	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	color: #747704;
-	max-width: 1000px;
-	margin: auto;
 	
 }
 
-hr{
+hr {
 	border: none;
 	height: 3px;
-	background-color: #BCBBBB
+	background-color: #bcbbbb
 }
 
-.top{
+.top {
 	float:left;
 }
 
-.topleft{
+.topleft {
 	margin-top: 10px;
 }
 
 
-.thinline{
+.thinline {
 	margin-top: 3px;
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
-.topline{
+.topline {
 	
 	text-align: right;
 	text-transform: uppercase;
 }
 
-#header{
+#header {
 	font-weight: 100;
 	font-size: 48px;
 }
 
-.midline{
-	color: #BCBBBB;
+.midline {
+	color: #bcbbbb;
 }
 
-.featured{
+.featured {
 	text-align: center;
 	color: #747704;
 }
 
-.thin{
+.thin {
 	font-weight: 100;
 }
 
-.center{
+.center {
 	margin: auto;
 
 }
 
-.big{
-	width: 1000px;
-	height: 700px;
-}
-
-.min{
-	height: 300px;
-	width: 500px;
+.link {
+	color: #747704;
 }
 
 
